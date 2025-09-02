@@ -42,7 +42,7 @@ function App() {
 
   return (
     <Body>
-      <Title>Tasks Management</Title>
+      <Title>Tasks Manager</Title>
       <AddTask onAddTaskClick={onAddTaskClick} />
       <Tasks
         tasks={tasks}
