@@ -4,6 +4,8 @@ Um gerenciador de tarefas moderno e responsivo construído com as tecnologias ma
 ## 💻 Demonstração
 ![Demonstração da Aplicação](task-management.gif)
 
+## 🖱️ [Acesse a aplicação clicando aqui!](https://task-manager-project-kappa.vercel.app)
+
 ## ✨ Funcionalidades
 - **Adicionar novas tarefas:** Campo de input intuitivo para adicionar novas tarefas à lista.
 
